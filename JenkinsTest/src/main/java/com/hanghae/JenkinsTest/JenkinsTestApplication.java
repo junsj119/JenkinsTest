@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenkinsTestApplication {
 
 	public static void main(String[] args) {
-		System.out.println("제발!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-		System.out.println("제발2222222222222222222222222222222");
-		System.out.println("제발3333333333333333333333333333333");
-		System.out.println("제발4444444444444444444444444444444");
+		System.out.println("제발!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+		System.out.println("제발222222222222222222222222222222");
+		System.out.println("제발333333333333333333333333333333");
+		System.out.println("제발444444444444444444444444444444");
 		SpringApplication.run(JenkinsTestApplication.class, args);
 	}
 
