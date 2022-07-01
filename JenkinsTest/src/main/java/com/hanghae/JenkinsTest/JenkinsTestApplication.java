@@ -10,6 +10,7 @@ public class JenkinsTestApplication {
 		System.out.println("제발!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("제발2222222222222222222222222222222");
 		System.out.println("제발3333333333333333333333333333333");
+		System.out.println("제발4444444444444444444444444444444");
 		SpringApplication.run(JenkinsTestApplication.class, args);
 	}
 
