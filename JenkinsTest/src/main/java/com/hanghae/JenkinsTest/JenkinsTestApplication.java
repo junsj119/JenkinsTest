@@ -11,6 +11,7 @@ public class JenkinsTestApplication {
 		System.out.println("제발222222222222222222222222222222");
 		System.out.println("제발333333333333333333333333333333");
 		System.out.println("제발444444444444444444444444444444");
+		System.out.println("제발5555555555555555555555555555555");
 		SpringApplication.run(JenkinsTestApplication.class, args);
 	}
 
